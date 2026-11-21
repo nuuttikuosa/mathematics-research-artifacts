@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these experiments, please cite the accompanying paper by Nuutti Kuosa."
+title: "Reproducibility materials for Finding Two Connected Factors of a Finite Dynamical System in Quasipolynomial Time"
+type: software
+version: 1.0.0
+repository-code: "https://github.com/nuuttikuosa/mathematics-research-artifacts"
+authors:
+  - family-names: Kuosa
+    given-names: Nuutti
+preferred-citation:
+  type: unpublished
+  title: "Finding Two Connected Factors of a Finite Dynamical System in Quasipolynomial Time"
+  authors:
+    - family-names: Kuosa
+      given-names: Nuutti
+  year: 2026
