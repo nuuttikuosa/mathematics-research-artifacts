@@ -1,0 +1,13 @@
+Width budgets: 3413 labelled tables, 45233 endpoint pairs, 139777 levels, 81111 unit budgets.
+Minimum-width guides: 400 ordered products, 961 cyclic starting cells, 2194 guide steps.
+Catalogue through 12 states: 203 decomposable targets, 428 ordered pairs, zero differences.
+Anchored splits on the search paths: 17343 non-unit calls, 206 distinct inputs, zero differences.
+420 states: guides (174,216), local mass 16, budget 595, rank 4, tau 2.
+Pivot (1,0,0,0): exact positive quotient misses the right anchor S2.
+The continuing split on these guides gives the 21-by-20 witness.
+r N old_X (guide_Y,guide_X) local_mass strict_budget rejected_axes signed_grades
+1 60 6 (4, 15) 8 70 2 4
+2 360 30 (4, 115) 16 540 4 16
+3 2880 210 (4, 955) 32 4680 8 96
+4 34560 2310 (4, 11515) 64 60480 16 768
+All global checks passed.
