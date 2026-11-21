@@ -1,0 +1,13 @@
+Python 3.12, SymPy 1.14.0
+family cases pairs negative general general_negative nonidentity max_rank
+stars 260 205 153 81 8 6 1
+height-2 36 138 0 35 0 0 2
+height-3 36 138 0 35 0 0 2
+height-4 36 138 0 35 0 0 2
+height-5 36 138 0 35 0 0 2
+twist-challenge 1 4 0 1 0 1 2
+signed-cofactor 1 6 0 1 0 0 2
+three-factors 1 8 0 1 0 0 3
+total 407 775 153 224 8 7 3
+distinct (target, ordered anchors) among trials: 347
+mismatches: 0

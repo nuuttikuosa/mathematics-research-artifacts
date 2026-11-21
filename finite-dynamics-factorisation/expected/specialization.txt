@@ -1,0 +1,4 @@
+Case 72: grades (1,2) and (0,1); edge cap 1; selected tau 2.
+At tau 1, F=(1+t^2)^2, G=1+t^3; tau 1 and tau 2 both match the four ordered oracle splits.
+154 generated; 106 tested; 103 distinct targets; 0 mismatches at tau 1.
+7 excess multiplicities: 6 shared roots, 1 internal repeated root; 8 horizontal slices with edge cap > 1.

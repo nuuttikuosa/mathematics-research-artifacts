@@ -1,0 +1,6 @@
+Eight-vertex witness: ordinary cut separates the siblings; pruned cut merges them.
+limit cut pairs groups outside_occurrences outside_groups mixed_groups mixed_radius2 unequal_ordered_pairs
+7 pruned_cut 1826 14631 1408 1267 159 0 318
+7 ordinary_cut 1826 14631 2082 1934 159 0 318
+8 pruned_cut 9633 108748 10732 9832 1694 68 3462
+8 ordinary_cut 9633 108748 16919 15935 1762 136 3598
