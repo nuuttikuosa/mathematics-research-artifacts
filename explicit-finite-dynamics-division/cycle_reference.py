@@ -1,9 +1,9 @@
-"""Integer-only cross-check of the cases in Claude's lemma2_test.py and lemma2_extra.py.
+"""Check Lemma 2 (interval realization) by enumerating integer cycle multiplicities.
 
 Run: python -B cycle_reference.py
-Uses only the Python standard library. The SAT/interval construction appears
-only on the expected-answer side. The independent quotient solver takes A,B
-alone and allows every divisor of the lcm of the target periods.
+Uses only the Python standard library. The interval construction supplies the
+expected quotient classes. The independent solver receives only the cycle
+lists of A and B and considers divisors of the lcm of the target cycle lengths.
 """
 
 from collections import Counter
@@ -109,9 +109,7 @@ def cycle_solutions(a, b):
 
 
 def one_case(groups, seed=None, tight=None, stress=False):
-    # Same capacities, face order and calls to random.Random as Claude's tests.
-    # Recorded rational-point tests use the same random() threshold to
-    # select a case, but no floating-point arithmetic enters the solver.
+    # The seed, face order and sequence of random draws determine each seeded case.
     top = list(product(*groups))
     faces = list(product(*[(1, *group) for group in groups]))
     if seed is None:

@@ -30,6 +30,19 @@ For the explicit-table experiment the divisor has 94 states and the interval con
 
 The two SAT experiments use exact integer cycle multiplicities to represent the large targets. The proof of the asymptotic reduction size is in Section 4 of the paper.
 
+## Reading the reports alongside the paper
+
+| Report term | Meaning in the paper |
+| --- | --- |
+| `periods` | Cycle lengths. The fields `target_periods` and `B_types` count distinct cycle lengths in the target. |
+| `axes` | The number of coordinates, *D*. |
+| Partial tuples, `decoded_cells` | A partial tuple describes a face. The decoder counts all faces, including fully specified sites. |
+| Axis fibers | Intersections of coordinate lines with the set of active sites. The count `ambient_nonempty_axis_fibers` includes lines meeting just one active site. |
+| `wire0`, `wire1` | Copying lines at stage zero (the literal slot varies) and stage one (the test slot varies). |
+| `glue` | A stage line joining the two stages for one test and its requested literal on one plane. |
+| `link`, `clause` | Plane lines. A `link` tests the signs at two endpoints. A `clause` tests three literal bits. |
+| `h` | The alphabet parameter λ in the checksum and routed constructions. |
+
 ## Additional checks
 
 `cycle_reference.py` compares the complete set of quotient cycle types with the feasible arrays on 92 seeded small instances and four further probes. `check_checksum.py` checks the checksum construction by enumerating the active sites and solving their interval constraints. [Cycle-level results](expected/exact_check.json) · [Checksum results](expected/check_checksum.json)
