@@ -1,0 +1,2022 @@
+{
+  "summary": {
+    "random_cases": 92,
+    "default_cases": 4,
+    "random_quotients": 53,
+    "random_no_instances": 50,
+    "extra_counts": [
+      16,
+      54,
+      4,
+      4
+    ],
+    "all_search_nodes": 240
+  },
+  "random": [
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2000,
+      "tight": 0,
+      "stress": false,
+      "B_states": 57152,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 14,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2001,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 6768,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 2,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2002,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 16544,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 2,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2003,
+      "tight": 0,
+      "stress": false,
+      "B_states": 60348,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 15,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2004,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 30644,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 12,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2005,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 34216,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 5,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2006,
+      "tight": 0,
+      "stress": false,
+      "B_states": 47188,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 13,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2007,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 30268,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 4,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2008,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 22936,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 5,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2009,
+      "tight": 0,
+      "stress": false,
+      "B_states": 68244,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 15,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2010,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 114868,
+      "count": 6,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 18,
+      "search_nodes": 11
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2011,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 37412,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 5,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2012,
+      "tight": 0,
+      "stress": false,
+      "B_states": 79712,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 15,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2013,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 69560,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 13,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2014,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 33276,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 5,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2015,
+      "tight": 0,
+      "stress": false,
+      "B_states": 19364,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 6,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2016,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 24440,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 4,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2017,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 43052,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 9,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2018,
+      "tight": 0,
+      "stress": false,
+      "B_states": 74636,
+      "count": 2,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 13,
+      "search_nodes": 3
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2019,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 39104,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 7,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2020,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 57904,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 10,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2021,
+      "tight": 0,
+      "stress": false,
+      "B_states": 41172,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 14,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2022,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 43240,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 13,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2023,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 46812,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 11,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2024,
+      "tight": 0,
+      "stress": false,
+      "B_states": 68244,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 18,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2025,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 18988,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 2,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2026,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 19740,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 6,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2027,
+      "tight": 0,
+      "stress": false,
+      "B_states": 33276,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 8,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2028,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 23876,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 7,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2029,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 41736,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 13,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2030,
+      "tight": 0,
+      "stress": false,
+      "B_states": 44368,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 15,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2031,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 43616,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 11,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2032,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 33088,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 2,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2033,
+      "tight": 0,
+      "stress": false,
+      "B_states": 74824,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 14,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2034,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 20492,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 7,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2035,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 12972,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 6,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2036,
+      "tight": 0,
+      "stress": false,
+      "B_states": 52076,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 11,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2037,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 81592,
+      "count": 1,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 12,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2038,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 12972,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 2,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": 2039,
+      "tight": 0,
+      "stress": false,
+      "B_states": 69748,
+      "count": 0,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 15,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2000,
+      "tight": 0,
+      "stress": false,
+      "B_states": 479000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 17,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2001,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 99000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 4,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2002,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 90500,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 3,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2003,
+      "tight": 0,
+      "stress": false,
+      "B_states": 441000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 19,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2004,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 309000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 10,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2005,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 275500,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 16,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2006,
+      "tight": 0,
+      "stress": false,
+      "B_states": 241000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 16,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2007,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 300500,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 17,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2008,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 233000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 10,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2009,
+      "tight": 0,
+      "stress": false,
+      "B_states": 387500,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 19,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2010,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 637000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 22,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2011,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 211000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 9,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2012,
+      "tight": 0,
+      "stress": false,
+      "B_states": 285000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 17,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2013,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 372500,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 15,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2014,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 288000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 19,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2015,
+      "tight": 0,
+      "stress": false,
+      "B_states": 434500,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 14,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2016,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 172500,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 12,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2017,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 165000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 14,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2018,
+      "tight": 0,
+      "stress": false,
+      "B_states": 505000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 18,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2019,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 284000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 15,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2020,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 317000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 13,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2021,
+      "tight": 0,
+      "stress": false,
+      "B_states": 561500,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 18,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2022,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 266000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 8,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2023,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 333500,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 9,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2024,
+      "tight": 0,
+      "stress": false,
+      "B_states": 524000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 22,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2025,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 245500,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 8,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2026,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 232000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 10,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2027,
+      "tight": 0,
+      "stress": false,
+      "B_states": 364000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 15,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2028,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 188500,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 11,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2029,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 266500,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 13,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2030,
+      "tight": 0,
+      "stress": false,
+      "B_states": 711000,
+      "count": 4,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 22,
+      "search_nodes": 7
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2031,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 453500,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 13,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2032,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 343000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 14,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2033,
+      "tight": 0,
+      "stress": false,
+      "B_states": 690000,
+      "count": 2,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 21,
+      "search_nodes": 3
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2034,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 139000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 8,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2035,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 202000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 12,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2036,
+      "tight": 0,
+      "stress": false,
+      "B_states": 350000,
+      "count": 2,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 14,
+      "search_nodes": 3
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2037,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 306000,
+      "count": 0,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 14,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2038,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 110000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 4,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5,
+          7
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "seed": 2039,
+      "tight": 0,
+      "stress": false,
+      "B_states": 356000,
+      "count": 1,
+      "lcm_divisors": 64,
+      "positive_bound_candidates": 17,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3000,
+      "tight": 0,
+      "stress": false,
+      "B_states": 12885390,
+      "count": 1,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 47,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3001,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 9780120,
+      "count": 0,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 37,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3002,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 2360610,
+      "count": 1,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 6,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3003,
+      "tight": 0,
+      "stress": false,
+      "B_states": 6953940,
+      "count": 1,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 36,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3004,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 4169970,
+      "count": 1,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 21,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3005,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 2961000,
+      "count": 0,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 10,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3006,
+      "tight": 0,
+      "stress": false,
+      "B_states": 10448550,
+      "count": 0,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 45,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3007,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 13181490,
+      "count": 0,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 36,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3008,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 2268630,
+      "count": 1,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 8,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3009,
+      "tight": 0,
+      "stress": false,
+      "B_states": 13470660,
+      "count": 1,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 43,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3010,
+      "tight": 0.5,
+      "stress": false,
+      "B_states": 12888540,
+      "count": 0,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 48,
+      "search_nodes": 1
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          13,
+          17
+        ]
+      ],
+      "seed": 3011,
+      "tight": 0.9,
+      "stress": false,
+      "B_states": 3730860,
+      "count": 0,
+      "lcm_divisors": 128,
+      "positive_bound_candidates": 20,
+      "search_nodes": 1
+    }
+  ],
+  "extra": [
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": null,
+      "tight": null,
+      "stress": false,
+      "B_states": 108288,
+      "count": 16,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 18,
+      "search_nodes": 31
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7,
+          11
+        ]
+      ],
+      "seed": null,
+      "tight": null,
+      "stress": true,
+      "B_states": 175216,
+      "count": 54,
+      "lcm_divisors": 32,
+      "positive_bound_candidates": 18,
+      "search_nodes": 81
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ]
+      ],
+      "seed": null,
+      "tight": null,
+      "stress": false,
+      "B_states": 544,
+      "count": 4,
+      "lcm_divisors": 8,
+      "positive_bound_candidates": 7,
+      "search_nodes": 7
+    },
+    {
+      "groups": [
+        [
+          3,
+          5
+        ],
+        [
+          7
+        ]
+      ],
+      "seed": null,
+      "tight": null,
+      "stress": false,
+      "B_states": 10752,
+      "count": 4,
+      "lcm_divisors": 16,
+      "positive_bound_candidates": 14,
+      "search_nodes": 7
+    }
+  ]
+}

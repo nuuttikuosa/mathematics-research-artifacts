@@ -1,0 +1,82 @@
+[
+  {
+    "case": "tautological",
+    "clauses": [
+      [
+        1,
+        -1,
+        1
+      ]
+    ],
+    "axes": 7,
+    "radix": 3,
+    "address_places": 1,
+    "free_sites": 150,
+    "marked_lines": 151,
+    "A_states": 819941,
+    "B_states": 329236589030252537126,
+    "B_types": 27693,
+    "negative_coefficients_in_signed_reference": 151,
+    "checked_A_divides_two_copies_of_B": true,
+    "decoded_cells": 16384,
+    "decoded_OR_lines": 1,
+    "decoded_XOR_components": 1,
+    "quotients": 2,
+    "source_satisfying_assignments": 2
+  },
+  {
+    "case": "forces_true",
+    "clauses": [
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "axes": 7,
+    "radix": 3,
+    "address_places": 1,
+    "free_sites": 150,
+    "marked_lines": 151,
+    "A_states": 819941,
+    "B_states": 329239142946470808170,
+    "B_types": 27693,
+    "negative_coefficients_in_signed_reference": 151,
+    "checked_A_divides_two_copies_of_B": true,
+    "decoded_cells": 16384,
+    "decoded_OR_lines": 1,
+    "decoded_XOR_components": 1,
+    "quotients": 1,
+    "source_satisfying_assignments": 1
+  },
+  {
+    "case": "contradiction",
+    "clauses": [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        -1,
+        -1,
+        -1
+      ]
+    ],
+    "axes": 7,
+    "radix": 3,
+    "address_places": 1,
+    "free_sites": 150,
+    "marked_lines": 152,
+    "A_states": 819941,
+    "B_states": 329220678276175751860,
+    "B_types": 27693,
+    "negative_coefficients_in_signed_reference": 152,
+    "checked_A_divides_two_copies_of_B": true,
+    "decoded_cells": 16384,
+    "decoded_OR_lines": 2,
+    "decoded_XOR_components": 1,
+    "quotients": 0,
+    "source_satisfying_assignments": 0
+  }
+]

@@ -1,0 +1,345 @@
+{
+  "scope": "Enumerated actual support and all its axis fibers. Numerical marked intervals decoded independently of wire routes. For n=1 the signed target and all satisfying quotients were multiplied as exact cycle histograms. No explicit state tables were allocated.",
+  "formulas": [
+    {
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          -1,
+          1
+        ]
+      ],
+      "test_ids": 7,
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 8,
+      "incidences": 15,
+      "active_sites": 100,
+      "ambient_nonempty_axis_fibers": 669,
+      "marked_fibers": {
+        "clause": 1,
+        "glue": 15,
+        "link": 6,
+        "wire0": 44,
+        "wire1": 35
+      },
+      "xor_components": 1,
+      "assignments_from_intervals": [
+        "0",
+        "1"
+      ],
+      "arrays_count": 2,
+      "direct_sat_count": 2,
+      "half_assignment": true,
+      "cycle_products": {
+        "divisor_states": 999240,
+        "target_states": 42733726046144284221840,
+        "target_periods": 58868,
+        "positive_shadow_faces": 8172,
+        "doubled_half_verified": true,
+        "integral_arrays_multiplied_back": 2,
+        "blind_decoding_from_A_B_only": {
+          "decoded_cells": 49152,
+          "decoded_OR_lines": 1,
+          "decoded_XOR_components": 1,
+          "quotients": 2
+        }
+      }
+    },
+    {
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "test_ids": 7,
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 8,
+      "incidences": 15,
+      "active_sites": 100,
+      "ambient_nonempty_axis_fibers": 665,
+      "marked_fibers": {
+        "clause": 1,
+        "glue": 15,
+        "link": 6,
+        "wire0": 42,
+        "wire1": 37
+      },
+      "xor_components": 1,
+      "assignments_from_intervals": [
+        "1"
+      ],
+      "arrays_count": 1,
+      "direct_sat_count": 1,
+      "half_assignment": true,
+      "cycle_products": {
+        "divisor_states": 999240,
+        "target_states": 42896455398795154857360,
+        "target_periods": 58016,
+        "positive_shadow_faces": 8060,
+        "doubled_half_verified": true,
+        "integral_arrays_multiplied_back": 1,
+        "blind_decoding_from_A_B_only": {
+          "decoded_cells": 49152,
+          "decoded_OR_lines": 1,
+          "decoded_XOR_components": 1,
+          "quotients": 1
+        }
+      }
+    },
+    {
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ]
+      ],
+      "test_ids": 8,
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 8,
+      "incidences": 18,
+      "active_sites": 124,
+      "ambient_nonempty_axis_fibers": 814,
+      "marked_fibers": {
+        "clause": 2,
+        "glue": 18,
+        "link": 6,
+        "wire0": 54,
+        "wire1": 46
+      },
+      "xor_components": 1,
+      "assignments_from_intervals": [],
+      "arrays_count": 0,
+      "direct_sat_count": 0,
+      "half_assignment": true,
+      "cycle_products": {
+        "divisor_states": 999240,
+        "target_states": 56256459480131785908000,
+        "target_periods": 65644,
+        "positive_shadow_faces": 9264,
+        "doubled_half_verified": true,
+        "integral_arrays_multiplied_back": 0,
+        "blind_decoding_from_A_B_only": {
+          "decoded_cells": 49152,
+          "decoded_OR_lines": 2,
+          "decoded_XOR_components": 1,
+          "quotients": 0
+        }
+      }
+    },
+    {
+      "n": 2,
+      "clauses": [
+        [
+          1,
+          2,
+          2
+        ],
+        [
+          -1,
+          -2,
+          -2
+        ],
+        [
+          1,
+          2,
+          2
+        ]
+      ],
+      "test_ids": 15,
+      "h": 3,
+      "u": 3,
+      "g": 3,
+      "axes": 10,
+      "incidences": 33,
+      "active_sites": 227,
+      "ambient_nonempty_axis_fibers": 1969,
+      "marked_fibers": {
+        "clause": 3,
+        "glue": 33,
+        "link": 12,
+        "wire0": 96,
+        "wire1": 86
+      },
+      "xor_components": 2,
+      "assignments_from_intervals": [
+        "01",
+        "10"
+      ],
+      "arrays_count": 2,
+      "direct_sat_count": 2,
+      "half_assignment": true
+    },
+    {
+      "n": 2,
+      "clauses": [
+        [
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          -2
+        ],
+        [
+          -1,
+          -1,
+          2
+        ],
+        [
+          -1,
+          -1,
+          -2
+        ]
+      ],
+      "test_ids": 16,
+      "h": 3,
+      "u": 3,
+      "g": 3,
+      "axes": 10,
+      "incidences": 36,
+      "active_sites": 252,
+      "ambient_nonempty_axis_fibers": 2182,
+      "marked_fibers": {
+        "clause": 4,
+        "glue": 36,
+        "link": 12,
+        "wire0": 108,
+        "wire1": 96
+      },
+      "xor_components": 2,
+      "assignments_from_intervals": [],
+      "arrays_count": 0,
+      "direct_sat_count": 0,
+      "half_assignment": true
+    },
+    {
+      "n": 3,
+      "clauses": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          -1,
+          -2,
+          3
+        ],
+        [
+          -3,
+          2,
+          1
+        ]
+      ],
+      "test_ids": 21,
+      "h": 3,
+      "u": 3,
+      "g": 3,
+      "axes": 10,
+      "incidences": 45,
+      "active_sites": 354,
+      "ambient_nonempty_axis_fibers": 3083,
+      "marked_fibers": {
+        "clause": 3,
+        "glue": 45,
+        "link": 18,
+        "wire0": 164,
+        "wire1": 127
+      },
+      "xor_components": 3,
+      "assignments_from_intervals": [
+        "010",
+        "011",
+        "100",
+        "101",
+        "111"
+      ],
+      "arrays_count": 5,
+      "direct_sat_count": 5,
+      "half_assignment": true
+    },
+    {
+      "n": 5,
+      "clauses": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          -5,
+          1
+        ],
+        [
+          -3,
+          2,
+          4
+        ],
+        [
+          -4,
+          -2,
+          -1
+        ]
+      ],
+      "test_ids": 34,
+      "h": 4,
+      "u": 3,
+      "g": 4,
+      "axes": 12,
+      "incidences": 72,
+      "active_sites": 621,
+      "ambient_nonempty_axis_fibers": 6637,
+      "marked_fibers": {
+        "clause": 4,
+        "glue": 72,
+        "link": 30,
+        "wire0": 302,
+        "wire1": 217
+      },
+      "xor_components": 5,
+      "assignments_from_intervals": [
+        "00110",
+        "00111",
+        "01000",
+        "01010",
+        "01011",
+        "01100",
+        "01110",
+        "01111",
+        "10000",
+        "10001",
+        "10010",
+        "10011",
+        "10110",
+        "10111",
+        "11000",
+        "11001",
+        "11100",
+        "11101"
+      ],
+      "arrays_count": 18,
+      "direct_sat_count": 18,
+      "half_assignment": true
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "scope": "Enumerated capacity-one sites, their actual axis fibers, and integral arrays; table sizes by the proved width formula. No explicit transition table was materialized.",
+  "slot_probes": [
+    {
+      "u": 3,
+      "g": 1,
+      "sites": 6,
+      "two_point_fibers": 6
+    },
+    {
+      "u": 3,
+      "g": 2,
+      "sites": 18,
+      "two_point_fibers": 27
+    },
+    {
+      "u": 4,
+      "g": 2,
+      "sites": 32,
+      "two_point_fibers": 48
+    },
+    {
+      "u": 5,
+      "g": 3,
+      "sites": 250,
+      "two_point_fibers": 500
+    }
+  ],
+  "formulas": [
+    {
+      "construction": "full",
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          -1,
+          1
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 1,
+      "axes": 7,
+      "active_sites": 216,
+      "nonempty_axis_fibers": 1016,
+      "marked_fibers": {
+        "copy": 210,
+        "link": 6,
+        "clause": 1
+      },
+      "xor_components": 1,
+      "half_assignment": true,
+      "satisfying_assignments": 2,
+      "feasible_integral_arrays": 2,
+      "assignments_in_variable_order": [
+        "0",
+        "1"
+      ],
+      "divisor_states": 819941,
+      "target_states_from_interval_widths": 486639451805414562286
+    },
+    {
+      "construction": "full",
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 1,
+      "axes": 7,
+      "active_sites": 216,
+      "nonempty_axis_fibers": 1016,
+      "marked_fibers": {
+        "copy": 210,
+        "link": 6,
+        "clause": 1
+      },
+      "xor_components": 1,
+      "half_assignment": true,
+      "satisfying_assignments": 1,
+      "feasible_integral_arrays": 1,
+      "assignments_in_variable_order": [
+        "1"
+      ],
+      "divisor_states": 819941,
+      "target_states_from_interval_widths": 486642005721632833330
+    },
+    {
+      "construction": "full",
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 1,
+      "axes": 7,
+      "active_sites": 216,
+      "nonempty_axis_fibers": 1016,
+      "marked_fibers": {
+        "copy": 210,
+        "link": 6,
+        "clause": 2
+      },
+      "xor_components": 1,
+      "half_assignment": true,
+      "satisfying_assignments": 0,
+      "feasible_integral_arrays": 0,
+      "assignments_in_variable_order": [],
+      "divisor_states": 819941,
+      "target_states_from_interval_widths": 486623541051337777020
+    },
+    {
+      "construction": "full",
+      "n": 2,
+      "clauses": [
+        [
+          1,
+          2,
+          2
+        ],
+        [
+          -1,
+          -2,
+          -2
+        ],
+        [
+          1,
+          2,
+          2
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 10,
+      "active_sites": 3888,
+      "nonempty_axis_fibers": 26416,
+      "marked_fibers": {
+        "copy": 3876,
+        "link": 12,
+        "clause": 2
+      },
+      "xor_components": 2,
+      "half_assignment": true,
+      "satisfying_assignments": 2,
+      "feasible_integral_arrays": 2,
+      "assignments_in_variable_order": [
+        "01",
+        "10"
+      ],
+      "divisor_states": 4213860,
+      "target_states_from_interval_widths": 390299485329437534351773562640
+    },
+    {
+      "construction": "full",
+      "n": 2,
+      "clauses": [
+        [
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          -2
+        ],
+        [
+          -1,
+          -1,
+          2
+        ],
+        [
+          -1,
+          -1,
+          -2
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 10,
+      "active_sites": 3888,
+      "nonempty_axis_fibers": 26416,
+      "marked_fibers": {
+        "copy": 3876,
+        "link": 12,
+        "clause": 4
+      },
+      "xor_components": 2,
+      "half_assignment": true,
+      "satisfying_assignments": 0,
+      "feasible_integral_arrays": 0,
+      "assignments_in_variable_order": [],
+      "divisor_states": 4213860,
+      "target_states_from_interval_widths": 390299420637335859052500420960
+    },
+    {
+      "construction": "full",
+      "n": 3,
+      "clauses": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          -1,
+          -2,
+          3
+        ],
+        [
+          -3,
+          2,
+          1
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 10,
+      "active_sites": 5832,
+      "nonempty_axis_fibers": 39096,
+      "marked_fibers": {
+        "copy": 5814,
+        "link": 18,
+        "clause": 3
+      },
+      "xor_components": 3,
+      "half_assignment": true,
+      "satisfying_assignments": 5,
+      "feasible_integral_arrays": 5,
+      "assignments_in_variable_order": [
+        "010",
+        "011",
+        "100",
+        "101",
+        "111"
+      ],
+      "divisor_states": 4213860,
+      "target_states_from_interval_widths": 638880567120213054505772258040
+    }
+  ],
+  "trimmed_formulas": [
+    {
+      "construction": "trimmed",
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          -1,
+          1
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 1,
+      "axes": 7,
+      "active_sites": 50,
+      "nonempty_axis_fibers": 294,
+      "marked_fibers": {
+        "copy": 44,
+        "link": 6,
+        "clause": 1
+      },
+      "xor_components": 1,
+      "half_assignment": true,
+      "satisfying_assignments": 2,
+      "feasible_integral_arrays": 2,
+      "assignments_in_variable_order": [
+        "0",
+        "1"
+      ],
+      "divisor_states": 819941,
+      "target_states_from_interval_widths": 132153975373469323014
+    },
+    {
+      "construction": "trimmed",
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 1,
+      "axes": 7,
+      "active_sites": 48,
+      "nonempty_axis_fibers": 282,
+      "marked_fibers": {
+        "copy": 42,
+        "link": 6,
+        "clause": 1
+      },
+      "xor_components": 1,
+      "half_assignment": true,
+      "satisfying_assignments": 1,
+      "feasible_integral_arrays": 1,
+      "assignments_in_variable_order": [
+        "1"
+      ],
+      "divisor_states": 819941,
+      "target_states_from_interval_widths": 128570051352917031642
+    },
+    {
+      "construction": "trimmed",
+      "n": 1,
+      "clauses": [
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 1,
+      "axes": 7,
+      "active_sites": 66,
+      "nonempty_axis_fibers": 384,
+      "marked_fibers": {
+        "copy": 60,
+        "link": 6,
+        "clause": 2
+      },
+      "xor_components": 1,
+      "half_assignment": true,
+      "satisfying_assignments": 0,
+      "feasible_integral_arrays": 0,
+      "assignments_in_variable_order": [],
+      "divisor_states": 819941,
+      "target_states_from_interval_widths": 172039205010430165892
+    },
+    {
+      "construction": "trimmed",
+      "n": 2,
+      "clauses": [
+        [
+          1,
+          2,
+          2
+        ],
+        [
+          -1,
+          -2,
+          -2
+        ],
+        [
+          1,
+          2,
+          2
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 10,
+      "active_sites": 193,
+      "nonempty_axis_fibers": 1697,
+      "marked_fibers": {
+        "copy": 181,
+        "link": 12,
+        "clause": 2
+      },
+      "xor_components": 2,
+      "half_assignment": true,
+      "satisfying_assignments": 2,
+      "feasible_integral_arrays": 2,
+      "assignments_in_variable_order": [
+        "01",
+        "10"
+      ],
+      "divisor_states": 4213860,
+      "target_states_from_interval_widths": 18258690432839408138356469280
+    },
+    {
+      "construction": "trimmed",
+      "n": 2,
+      "clauses": [
+        [
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          -2
+        ],
+        [
+          -1,
+          -1,
+          2
+        ],
+        [
+          -1,
+          -1,
+          -2
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 10,
+      "active_sites": 221,
+      "nonempty_axis_fibers": 1940,
+      "marked_fibers": {
+        "copy": 209,
+        "link": 12,
+        "clause": 4
+      },
+      "xor_components": 2,
+      "half_assignment": true,
+      "satisfying_assignments": 0,
+      "feasible_integral_arrays": 0,
+      "assignments_in_variable_order": [],
+      "divisor_states": 4213860,
+      "target_states_from_interval_widths": 19087302987151424339596035600
+    },
+    {
+      "construction": "trimmed",
+      "n": 3,
+      "clauses": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          -1,
+          -2,
+          3
+        ],
+        [
+          -3,
+          2,
+          1
+        ]
+      ],
+      "h": 3,
+      "u": 3,
+      "g": 2,
+      "axes": 10,
+      "active_sites": 259,
+      "nonempty_axis_fibers": 2283,
+      "marked_fibers": {
+        "copy": 241,
+        "link": 18,
+        "clause": 3
+      },
+      "xor_components": 3,
+      "half_assignment": true,
+      "satisfying_assignments": 5,
+      "feasible_integral_arrays": 5,
+      "assignments_in_variable_order": [
+        "010",
+        "011",
+        "100",
+        "101",
+        "111"
+      ],
+      "divisor_states": 4213860,
+      "target_states_from_interval_widths": 27303131466614268627640552680
+    }
+  ]
+}
