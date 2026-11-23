@@ -14,3 +14,7 @@ preferred-citation:
     - family-names: Kuosa
       given-names: Nuutti
   year: 2026
+  identifiers:
+    - type: other
+      value: "hexagon:2611.00945"
+      description: "Hexagon submission identifier"
