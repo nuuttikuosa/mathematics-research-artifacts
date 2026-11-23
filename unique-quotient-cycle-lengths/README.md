@@ -62,3 +62,5 @@ The dynamic programme minimises size and then support at every admissible
 marginal vector. The four-prime maximum is therefore exact. For five
 through eight primes the certificate checks give lower bounds for the
 maximum. They establish uniqueness for each displayed example.
+
+The scripts and data use the [repository’s CC0 1.0 license](../LICENSE).

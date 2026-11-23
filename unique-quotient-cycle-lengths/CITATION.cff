@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these checks, please cite the accompanying paper by Nuutti Kuosa."
+title: "Reproduction materials for How Many Cycle Lengths Can a Unique Quotient Require?"
+type: software
+license: CC0-1.0
+repository-code: "https://github.com/nuuttikuosa/mathematics-research-artifacts"
+authors:
+  - family-names: Kuosa
+    given-names: Nuutti
+preferred-citation:
+  type: unpublished
+  title: "How Many Cycle Lengths Can a Unique Quotient Require?"
+  authors:
+    - family-names: Kuosa
+      given-names: Nuutti
+  year: 2026

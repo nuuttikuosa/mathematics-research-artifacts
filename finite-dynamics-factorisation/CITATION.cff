@@ -3,6 +3,7 @@ message: "If you use these experiments, please cite the accompanying paper by Nu
 title: "Reproducibility materials for Finding Two Connected Factors of a Finite Dynamical System in Quasipolynomial Time"
 type: software
 version: 1.0.0
+license: CC0-1.0
 repository-code: "https://github.com/nuuttikuosa/mathematics-research-artifacts"
 authors:
   - family-names: Kuosa
@@ -14,3 +15,7 @@ preferred-citation:
     - family-names: Kuosa
       given-names: Nuutti
   year: 2026
+  identifiers:
+    - type: other
+      value: "hexagon:2611.00849"
+      description: "Hexagon submission identifier"
