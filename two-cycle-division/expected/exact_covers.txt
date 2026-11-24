@@ -1,0 +1,6 @@
+Families by number of exact covers: {0: 30, 1: 29, 2: 9, 3: 2}
+(h,q) pairs: [(1, 2), (1, 3), (2, 3), (3, 2), (4, 3), (6, 5), (8, 3), (9, 2), (12, 5)]
+Matched quotient-class sets: 630 {'empty': 9, 'full': 459, 'too few': 72, 'weight deficit': 90}
+Quotient classes across all matched instances: 477
+Unprotected scaling control: 1 -> 4 classes
+PASS

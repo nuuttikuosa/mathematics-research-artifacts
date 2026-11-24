@@ -1,0 +1,9 @@
+Two-cycle divisors: 21 including 9 with nontrivial gcd and 6 with equal lengths
+Complete quotient-set comparisons on positive inputs: 505 including 66 with multiple classes
+Quotient classes checked across positive inputs: 609
+Integral negative target comparisons: 4637 including 862 using only attainable periods
+Control with prime equal to quotient size: positive became negative
+Fixed-gcd complete allowed-column checks: 342 supports and 774 columns
+Fixed-gcd whole-fibre checks: 270 positive and 4905 negative, including 144 negative with balanced margins
+Fixed-gcd positive fibres: 18 with several classes; 288 classes in total
+PASS

@@ -1,0 +1,10 @@
+all targets, 1 <= a <= b <= 4 and (a+b)n <= 18: {'all': 4061, 'yes': 169, 'multiple': 7, 'no': 3892}
+positive targets, 1 <= a <= b <= 6, 1 <= n <= 8: {'targets': 1115, 'classes': 1386, 'multiple': 149}
+worked example (4, 6, 14) quotient partitions: [(1, 1, 12), (2, 12)]
+worked example (2, 3, 12) quotient partitions: [(1, 1, 1, 1, 1, 1, 6), (2, 2, 2, 3, 3)]
+worked example (4, 7, 4) quotient partitions: [(4,)]
+row-only DP matched all targets above
+cut prefixes checked: 4368
+saturated cut (a,b,n,order,block,position,active,lengths): (3, 4, 6, 0, 12, 3, (4, 6, 12), (1, 3, 2, 6, 4))
+weighted-sum identities at the saturated cut: 84
+PASS

@@ -1,0 +1,4 @@
+Mixed-axis panels: 5
+Positive, negative, balanced negative, multiple: 365 11635 170 10
+Detected the incomplete-prime-power and overlapping-support controls.
+PASS

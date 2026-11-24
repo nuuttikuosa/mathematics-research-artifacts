@@ -1,4 +1,4 @@
-"""Run the finite checks and compare each JSON result with its reference output."""
+"""Run the finite checks and compare their output with the reference files."""
 
 import difflib
 import json
@@ -8,30 +8,37 @@ import sys
 
 
 ROOT = Path(__file__).resolve().parent
-CHECKS = ("direct_blocks", "pairs", "seeded_pairs", "weighted_tables", "routing", "addresses")
+REFERENCES = (
+    "direct_blocks.json", "pairs.json", "seeded_pairs.json",
+    "weighted_tables.json", "routing.json", "addresses.json",
+    "shared_length.txt", "exact_covers.txt", "gcd_scaling.txt", "mixed_axes.txt",
+)
 
 
-def formatted(value):
-    return json.dumps(value, sort_keys=True, indent=2, ensure_ascii=True).splitlines()
+def output_lines(text, extension):
+    if extension == ".json":
+        text = json.dumps(json.loads(text), sort_keys=True, indent=2, ensure_ascii=True)
+    return text.splitlines()
 
 
 def main():
-    for name in CHECKS:
+    for filename in REFERENCES:
+        reference = ROOT / "expected" / filename
+        name = reference.stem
         script = ROOT / "checks" / f"check_{name}.py"
-        reference = ROOT / "expected" / f"{name}.json"
         run = subprocess.run([sys.executable, "-I", "-B", str(script)],
                              cwd=ROOT, capture_output=True, encoding="utf-8")
         if run.returncode:
             sys.stderr.write(run.stderr or run.stdout)
             print(f"FAIL {name}: exit code {run.returncode}", file=sys.stderr)
             return 1
-        actual = json.loads(run.stdout)
-        expected = json.loads(reference.read_text(encoding="utf-8"))
+        actual = output_lines(run.stdout, reference.suffix)
+        expected = output_lines(reference.read_text(encoding="utf-8"), reference.suffix)
         if actual != expected:
-            diff = difflib.unified_diff(formatted(expected), formatted(actual),
-                                        fromfile=reference.name, tofile="computed")
+            diff = difflib.unified_diff(expected, actual, fromfile=filename,
+                                        tofile="computed", lineterm="")
             print("\n".join(diff), file=sys.stderr)
-            print(f"FAIL {name}: different JSON values", file=sys.stderr)
+            print(f"FAIL {name}: output differs from {filename}", file=sys.stderr)
             return 1
         print(f"PASS {name}", flush=True)
     return 0
