@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these checks, please cite the accompanying paper by Nuutti Kuosa."
+title: "Reproduction materials for Division by Two Cycles in Binary and Explicit Representations"
+type: software
+license: CC0-1.0
+authors:
+  - family-names: Kuosa
+    given-names: Nuutti
+preferred-citation:
+  type: unpublished
+  title: "Division by Two Cycles in Binary and Explicit Representations"
+  authors:
+    - family-names: Kuosa
+      given-names: Nuutti
+  year: 2026

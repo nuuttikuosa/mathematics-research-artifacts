@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "period_test": {
+    "divisor_lengths": [
+      1,
+      16
+    ],
+    "t": [
+      1,
+      120
+    ],
+    "ordered_output_pairs_realized": 14501,
+    "diagonal_pairs": 2352,
+    "individual_periods_shortened": 1819
+  },
+  "exhaustive_targets": {
+    "targets": 42877,
+    "yes": 279,
+    "no": 42598,
+    "noncoprime": 18729,
+    "noncoprime_incomparable": 980
+  },
+  "search_not_count_example": {
+    "A": [
+      4,
+      6
+    ],
+    "B": [
+      4,
+      4,
+      6,
+      6
+    ],
+    "all_quotients": [
+      [
+        1,
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "canonical_quotient": [
+      1,
+      1
+    ]
+  }
+}

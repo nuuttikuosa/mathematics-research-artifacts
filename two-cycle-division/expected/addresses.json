@@ -1,0 +1,9 @@
+{
+  "dimensions": [1, 2, 3, 4],
+  "moduli": [1, 4, 12, 35],
+  "parameter_sets": 16,
+  "addresses_checked": 120,
+  "neighbour_pairs_checked": 196,
+  "two_term_multisets_checked": 740,
+  "status": "PASS"
+}

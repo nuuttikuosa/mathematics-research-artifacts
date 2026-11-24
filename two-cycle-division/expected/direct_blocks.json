@@ -1,0 +1,185 @@
+{
+  "cases": [
+    {
+      "divisor_cycles": [
+        2,
+        3
+      ],
+      "quotient_size": 1,
+      "target_size": 5,
+      "all_target_types": 7,
+      "yes": 1,
+      "infeasible_block": 0,
+      "unreachable_target_length": 6
+    },
+    {
+      "divisor_cycles": [
+        2,
+        3
+      ],
+      "quotient_size": 2,
+      "target_size": 10,
+      "all_target_types": 42,
+      "yes": 2,
+      "infeasible_block": 1,
+      "unreachable_target_length": 39
+    },
+    {
+      "divisor_cycles": [
+        2,
+        3
+      ],
+      "quotient_size": 3,
+      "target_size": 15,
+      "all_target_types": 176,
+      "yes": 3,
+      "infeasible_block": 3,
+      "unreachable_target_length": 170
+    },
+    {
+      "divisor_cycles": [
+        2,
+        4
+      ],
+      "quotient_size": 1,
+      "target_size": 6,
+      "all_target_types": 11,
+      "yes": 1,
+      "infeasible_block": 1,
+      "unreachable_target_length": 9
+    },
+    {
+      "divisor_cycles": [
+        2,
+        4
+      ],
+      "quotient_size": 2,
+      "target_size": 12,
+      "all_target_types": 77,
+      "yes": 1,
+      "infeasible_block": 3,
+      "unreachable_target_length": 73
+    },
+    {
+      "divisor_cycles": [
+        2,
+        4
+      ],
+      "quotient_size": 3,
+      "target_size": 18,
+      "all_target_types": 385,
+      "yes": 2,
+      "infeasible_block": 13,
+      "unreachable_target_length": 370
+    },
+    {
+      "divisor_cycles": [
+        3,
+        3
+      ],
+      "quotient_size": 1,
+      "target_size": 6,
+      "all_target_types": 11,
+      "yes": 1,
+      "infeasible_block": 0,
+      "unreachable_target_length": 10
+    },
+    {
+      "divisor_cycles": [
+        3,
+        3
+      ],
+      "quotient_size": 2,
+      "target_size": 12,
+      "all_target_types": 77,
+      "yes": 2,
+      "infeasible_block": 1,
+      "unreachable_target_length": 74
+    },
+    {
+      "divisor_cycles": [
+        3,
+        3
+      ],
+      "quotient_size": 3,
+      "target_size": 18,
+      "all_target_types": 385,
+      "yes": 2,
+      "infeasible_block": 2,
+      "unreachable_target_length": 381
+    },
+    {
+      "divisor_cycles": [
+        4,
+        6
+      ],
+      "quotient_size": 1,
+      "target_size": 10,
+      "all_target_types": 42,
+      "yes": 1,
+      "infeasible_block": 0,
+      "unreachable_target_length": 41
+    },
+    {
+      "divisor_cycles": [
+        4,
+        6
+      ],
+      "quotient_size": 2,
+      "target_size": 20,
+      "all_target_types": 627,
+      "yes": 1,
+      "infeasible_block": 1,
+      "unreachable_target_length": 625
+    },
+    {
+      "divisor_cycles": [
+        4,
+        6
+      ],
+      "quotient_size": 3,
+      "target_size": 30,
+      "all_target_types": 5604,
+      "yes": 2,
+      "infeasible_block": 4,
+      "unreachable_target_length": 5598
+    }
+  ],
+  "totals": {
+    "all_target_types": 7444,
+    "yes": 19,
+    "infeasible_block": 29,
+    "unreachable_target_length": 7396
+  },
+  "focused": [
+    {
+      "name": "opening_example",
+      "status": "infeasible_block",
+      "oracle_quotients": []
+    },
+    {
+      "name": "two_contributions_to_length_six",
+      "status": "yes",
+      "oracle_quotients": [
+        [
+          6
+        ]
+      ]
+    },
+    {
+      "name": "equal_divisor_cycles",
+      "status": "yes",
+      "oracle_quotients": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "absent_length_must_be_enforced",
+      "status": "infeasible_block",
+      "oracle_quotients": []
+    }
+  ],
+  "status": "PASS"
+}

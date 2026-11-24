@@ -1,0 +1,48 @@
+{
+  "K4": {
+    "original_vertices": 4,
+    "original_edges": 6,
+    "private_diamonds": 20,
+    "expanded_vertices": 84,
+    "expanded_edges": 126,
+    "occupied_addresses": 20,
+    "max_vertices_per_address": 8,
+    "edges_by_address_distance": {
+      "0": 100,
+      "1": 26
+    },
+    "boundary_patterns_per_diamond": [
+      "00",
+      "11",
+      "22"
+    ],
+    "extensions_per_boundary_pattern": 2,
+    "direct_original_colourings": 6,
+    "expanded_boundary_assignments": 6,
+    "expanded_colourings_by_local_elimination": 6291456,
+    "expanded_witness_checked": true
+  },
+  "Petersen": {
+    "original_vertices": 10,
+    "original_edges": 15,
+    "private_diamonds": 84,
+    "expanded_vertices": 346,
+    "expanded_edges": 519,
+    "occupied_addresses": 81,
+    "max_vertices_per_address": 12,
+    "edges_by_address_distance": {
+      "0": 420,
+      "1": 99
+    },
+    "boundary_patterns_per_diamond": [
+      "00",
+      "11",
+      "22"
+    ],
+    "extensions_per_boundary_pattern": 2,
+    "direct_original_colourings": 0,
+    "expanded_boundary_assignments": 0,
+    "expanded_colourings_by_local_elimination": 0,
+    "expanded_witness_checked": false
+  }
+}

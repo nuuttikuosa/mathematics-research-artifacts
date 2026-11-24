@@ -1,0 +1,25 @@
+{
+  "seed": 20261124,
+  "trials_generated": 1500,
+  "samples": 1330,
+  "positive": 774,
+  "non_coprime": 755,
+  "diagonal_candidate": 1015,
+  "positive_with_diagonal_candidate": 545,
+  "feasibility_disagreements": 0,
+  "distinct_labels": 709,
+  "distinct_labels_at_or_above_cutoff": 183,
+  "cutoff": 200000,
+  "max_tau_R_below_cutoff": 160,
+  "max_tau_R": 486,
+  "max_tau_R_witness": {
+    "a": 9,
+    "b": 12,
+    "s": 3578575,
+    "D": 36,
+    "R": 128828700,
+    "tau_D": 9,
+    "feasible": true
+  },
+  "max_tau_D": 16
+}

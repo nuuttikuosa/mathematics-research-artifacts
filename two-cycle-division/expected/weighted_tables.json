@@ -1,0 +1,16 @@
+{
+  "K4": {
+    "rows": 126,
+    "columns": 108,
+    "max_row_options": 3,
+    "max_column_options": 6,
+    "tables": 12
+  },
+  "2K4": {
+    "rows": 252,
+    "columns": 216,
+    "max_row_options": 3,
+    "max_column_options": 6,
+    "tables": 144
+  }
+}
