@@ -1,0 +1,3 @@
+Direct partitions of |X|=1..14, g=1..18, with same-size target perturbations.
+All 54677 target checks passed: {'no': 50034, 'one': 3264, 'two lifts': 1355, 'two representative vectors': 24}
+Recovered exact prime factorisations for 1..500 with 8364 nonuniqueness queries.

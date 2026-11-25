@@ -12,7 +12,10 @@ REFERENCES = (
     "direct_blocks.json", "pairs.json", "seeded_pairs.json",
     "weighted_tables.json", "routing.json", "addresses.json",
     "shared_length.txt", "exact_covers.txt", "gcd_scaling.txt", "mixed_axes.txt",
-    "consecutive_divisors.txt",
+    "consecutive_divisors.txt", "normal_form_successor_tables.txt",
+    "collision_inverse.txt", "split_quota_dp.txt", "transient_targets.txt", "rotations_and_size.txt",
+    "second_quotient.txt", "lifts_and_cost.txt", "crt_blocks.txt",
+    "factoring_queries.txt", "final_crosschecks.json",
 )
 
 

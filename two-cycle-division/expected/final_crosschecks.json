@@ -1,0 +1,25 @@
+{
+  "representative_vectors": {
+    "blocks_with_shared_label": 141,
+    "feasible": 521,
+    "multiple_vectors": 37,
+    "padded_blocks": 430,
+    "targets": 694
+  },
+  "simulated_oracle": {
+    "inputs": 3006,
+    "queries_on_selected_inputs": {
+      "1000036000099": 77,
+      "1023982592": 48,
+      "1048576": 20,
+      "1594323": 38,
+      "823543": 34,
+      "9699690": 43,
+      "999983": 38
+    }
+  },
+  "word_lengths": {
+    "trial_divisor_pairs_sharing_a_prime": 206868,
+    "triples": 20000
+  }
+}

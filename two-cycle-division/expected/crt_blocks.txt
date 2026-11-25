@@ -1,0 +1,4 @@
+Small checks (g=1..8, quotient size 1..12): {'cases': 6216, 'positive': 1211, 'several lifts of one vector': 364, 'several vectors': 3}
+241-bit w and 171-bit m: four shared moduli; exactly 2^170+1 normalized vectors.
+Only the interval, stride and two endpoint witnesses were computed for this family.
+PASS

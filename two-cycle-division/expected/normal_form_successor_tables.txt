@@ -1,0 +1,16 @@
+Collision fixture: (1, 1) ((6, 2),) -> (3, 2) ((36, 5),) quotients {(36,)}
+validated inputs: 2433
+positive: 1096
+complete old quotient classes: 1324
+different solutions at same target: 143
+old row and column collide: 306
+new row and column collide: 1
+nontrivially rescaled block: 203
+both rescaling factors > 1: 1
+negative despite integral shares: 1
+equal axes: 308
+gcd > 1: 596
+unit axis: 873
+negative: 1337
+partitions traced in the size-36 test: 17977
+PASS

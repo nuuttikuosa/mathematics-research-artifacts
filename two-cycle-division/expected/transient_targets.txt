@@ -1,0 +1,3 @@
+Different source classes on 1--6 states: 207
+{'additional hand-certified negatives': 1, 'both scalings > 1': 974, 'decorated normal early negatives': 4306, 'decorated normal late negatives': 1, 'instances': 6331, 'largest literal transformed product': 4464, 'literal transformed products': 2277, 'maximum fibre': 6, 'negative': 4306, 'negative after arithmetic checks': 1, 'nonunique': 199, 'positive': 2025, 'primitive period >1': 2300, 'several words': 2698, 'shared period with nontrivial word': 314, 'source quotient classes': 2277}
+PASS

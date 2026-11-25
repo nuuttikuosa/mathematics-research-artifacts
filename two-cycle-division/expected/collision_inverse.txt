@@ -1,0 +1,29 @@
+two colliding classes: old=[((35, 6), (210, 1)), ((70, 3), (105, 2))]; new=[((1225, 6), (7350, 1)), ((2450, 3), (3675, 2))]; collision=[7350]
+  axes=(15, 14); row=((3675, 30), (7350, 15)); col=((2450, 42), (7350, 14))
+passed split and colliding, no solution: old=[]; new=[]; collision=[7350]
+  axes=(15, 14); row=((3675, 5), (7350, 5)); col=((7350, 7),)
+multiblock, four classes: old=[((1, 6), (6, 1), (35, 6), (210, 1)), ((1, 6), (6, 1), (70, 3), (105, 2)), ((2, 3), (3, 2), (35, 6), (210, 1)), ((2, 3), (3, 2), (70, 3), (105, 2))]; new=[((1, 6), (6, 1), (1225, 6), (7350, 1)), ((1, 6), (6, 1), (2450, 3), (3675, 2)), ((2, 3), (3, 2), (1225, 6), (7350, 1)), ((2, 3), (3, 2), (2450, 3), (3675, 2))]; collision=[7350]
+  axes=(15, 14); row=((15, 6), (30, 3), (3675, 30), (7350, 15)); col=((14, 6), (42, 2), (2450, 42), (7350, 14))
+multiblock, no solution: old=[]; new=[]; collision=[7350]
+  axes=(15, 14); row=((15, 6), (30, 3), (3675, 5), (7350, 5)); col=((14, 6), (42, 2), (7350, 7))
+equal axes with two classes: old=[((6, 5),), ((30, 1),)]; new=[((36, 5),), ((180, 1),)]; collision=[180]
+  axes=(15, 10); row=((180, 15),); col=((180, 10),)
+unit axes: old=[((6, 1),)]; new=[((36, 1),)]; collision=[36]
+  axes=(3, 2); row=((36, 3),); col=((36, 2),)
+gcd and partial scales: old=[((4, 3), (9, 2)), ((4, 3), (18, 1)), ((9, 2), (12, 1)), ((12, 1), (18, 1))]; new=[((8, 3), (27, 2)), ((8, 3), (54, 1)), ((24, 1), (27, 2)), ((24, 1), (54, 1))]; collision=[]
+  axes=(18, 12); row=((54, 18), (72, 6)); col=((24, 12), (108, 6))
+prescribed negative control: old=[]; new=[]; collision=[]
+  axes=(16, 15); row=((48, 1),); col=((15, 1), (30, 1))
+length divisible by both axes, zero column share: old=[((2, 1),)]; new=[((4, 1),)]; collision=[]
+  axes=(3, 2); row=((12, 1),); col=((4, 2),)
+full prime power at positive collision: old=[((60, 7),), ((420, 1),)]; new=[((2400, 7),), ((16800, 1),)]; collision=[16800]
+  axes=(112, 105); row=((16800, 112),); col=((16800, 105),)
+collision with multiple blocks: 2
+collision, empty fibre: 26
+collision, multiple fibre: 6
+collision, unique fibre: 44
+output classes at a collision (sum per case): 58
+passed margin split: 200
+rejected at margin split: 832
+with positive row-column collision: 76
+PASS

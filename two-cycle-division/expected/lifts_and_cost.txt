@@ -1,0 +1,5 @@
+Complete ordered-pair intervals: 12755; coincident outputs: 1385; 1 < H < g: 1530.
+g=5 target (30 C10, 30 C15, 25 C30): 6 representative vectors, 63 raw classes; 14 lifts of the selected vector.
+Large single-pair target: 281-bit g; first change at z=65537.
+With a 1025-bit multiplicity the second witness uses 2 distinct periods; direct product verified.
+PASS

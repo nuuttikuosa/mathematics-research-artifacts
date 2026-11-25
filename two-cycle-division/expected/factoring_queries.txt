@@ -1,0 +1,2 @@
+All g=1..512, both Boolean oracles, 13240 queries: PASS
+Known-threshold simulation: 488-bit input, 73 factors with multiplicity, 969 queries: PASS

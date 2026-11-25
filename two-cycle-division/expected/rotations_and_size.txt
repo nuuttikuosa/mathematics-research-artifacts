@@ -1,0 +1,7 @@
+36 independent pairs of cuts: one source class and one image class; reflection gives no source quotient.
+Nonunique three-letter word: exactly two classes in each fibre.
+Late negative: original and transformed target have zero classes.
+1 leaf: B=14, B'=210, total input=16, total output=215
+257 leaves: B=526, B'=7890, total input=528, total output=7895
+8192 leaves: B=16396, B'=245940, total input=16398, total output=245945
+PASS

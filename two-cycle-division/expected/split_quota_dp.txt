@@ -1,0 +1,17 @@
+Source quotient sizes: 1..12; representation: literal successor tables
+Ordered divisor pairs: 29; orders per instance: sorted and two seeded shuffles
+DP runs: 72387
+instances: 24129
+more than one: 552
+no: 17439
+quotient classes: 7859
+yes: 6690
+Block coverage over all runs:
+dual-positive shared column processed first: 725
+dual-positive shared column processed last: 1440
+dual-positive shared column processed middle: 25
+positive quota at shared length: both: 13506
+positive quota at shared length: column only: 11079
+positive quota at shared length: row only: 10986
+unobserved block label: 12117
+PASS
