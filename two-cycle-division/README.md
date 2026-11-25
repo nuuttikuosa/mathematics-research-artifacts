@@ -1,5 +1,7 @@
 # Division by Two Cycles in Binary and Explicit Representations
 
+Hexagon submission `hexagon:2611.01091`.
+
 Reproduction materials for the paper by Nuutti Kuosa. Given two cycles and a target $B$, can we find a system $X$ for which $(C_a+C_b)X$ is isomorphic to $B$? How many choices of $X$ are there up to isomorphism? The scripts test the paper's constructions on permutations and on explicit targets with trees attached to their cycles. The time bounds in the paper are proved mathematically.
 
 ## Run the checks
