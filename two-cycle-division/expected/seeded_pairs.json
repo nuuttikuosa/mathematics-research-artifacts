@@ -19,6 +19,7 @@
     "D": 36,
     "R": 128828700,
     "tau_D": 9,
+    "reduced_pair_bound": 6,
     "feasible": true
   },
   "max_tau_D": 16

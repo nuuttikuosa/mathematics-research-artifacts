@@ -154,6 +154,8 @@ def main():
 
         D = lcm(a, b)
         maximum_tau_D = max(maximum_tau_D, divisor_count(D))
+        g = gcd(a, b)
+        pair_bound = divisor_count(a // g) * divisor_count(b // g)
         block_sizes = defaultdict(int)
         for s in sorted(periods):
             R = lcm(D, s)
@@ -162,8 +164,9 @@ def main():
             if divisor_count(R) > maximum_tau_R:
                 maximum_tau_R = divisor_count(R)
                 witness = {"a": a, "b": b, "s": s, "D": D, "R": R,
-                           "tau_D": divisor_count(D), "feasible": positive}
-        if any(size > divisor_count(D) for size in block_sizes.values()):
+                           "tau_D": divisor_count(D), "reduced_pair_bound": pair_bound,
+                           "feasible": positive}
+        if any(size > pair_bound for size in block_sizes.values()):
             raise AssertionError(f"Too many representatives in a block on trial {trial}")
 
     result = {

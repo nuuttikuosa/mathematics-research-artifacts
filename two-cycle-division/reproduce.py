@@ -12,6 +12,7 @@ REFERENCES = (
     "direct_blocks.json", "pairs.json", "seeded_pairs.json",
     "weighted_tables.json", "routing.json", "addresses.json",
     "shared_length.txt", "exact_covers.txt", "gcd_scaling.txt", "mixed_axes.txt",
+    "consecutive_divisors.txt",
 )
 
 

@@ -49,7 +49,8 @@ def tau(x):
 
 @lru_cache(None)
 def layout(a, b, n, order):
-    if tau(a) < tau(b):
+    common = gcd(a, b)
+    if tau(a // common) < tau(b // common):
         a, b = b, a
     blocks = defaultdict(lambda: defaultdict(list))
     lengths = set()
@@ -65,7 +66,7 @@ def layout(a, b, n, order):
             terms = sorted(columns[col], reverse=bool(order & 2))
             rows.update(term[1] for term in terms)
             groups.append((col, terms))
-        assert len(rows) <= tau(b)
+        assert len(rows) <= tau(b // common)
         assert rows.intersection(columns) <= {label}
         result.append((label, tuple(sorted(rows)), groups))
     return result, lengths
@@ -98,7 +99,8 @@ def block_count(rows, groups, target, n):
 
 def count_rows_only(a, b, n, rows, groups, target):
     """Independent state compression: reconstruct each ordinary column from mass."""
-    if tau(a) < tau(b):
+    common = gcd(a, b)
+    if tau(a // common) < tau(b // common):
         a, b = b, a
     index = {row: i for i, row in enumerate(rows)}
     counts = {(0,) * len(rows): 1}
@@ -211,7 +213,7 @@ def check_cuts():
                         for pos, active, sequence in cut_profile(rows, groups):
                             if (sharp is None and b % a and label in rows
                                     and any(c == label for c, _ in groups)
-                                    and len(active) == min(tau(a), tau(b)) + 1):
+                                    and len(active) == min(tau(a // gcd(a, b)), tau(b // gcd(a, b))) + 1):
                                 sharp = (a, b, n, order, label, pos, active, sequence)
         if sharp:
             break
