@@ -1,0 +1,16 @@
+{
+  "cases": 10575,
+  "all_exact_arithmetic_checks_passed": true,
+  "max_k_observed": 4,
+  "largest_example": {
+    "R_decimal_digits": 1001,
+    "lam": 387,
+    "u": 43,
+    "g": 613,
+    "h": 3675,
+    "k": 2,
+    "D": 620,
+    "prime_count": 26621
+  },
+  "note": "Finite arithmetic boundary checks only; asymptotic and bit-complexity claims are proved in the paper."
+}

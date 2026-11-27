@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-27",
+  "coefficient_search": {
+    "maximum_states": 30,
+    "nonempty_cycle_types": 28628,
+    "rational_root_of_unity_twists": 57256,
+    "admissible_negative_twists": 683,
+    "distinct_type_collisions": 0,
+    "by_degree": [
+      {
+        "states": 1,
+        "cycle_types": 1,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 2,
+        "cycle_types": 2,
+        "admissible_negative_twists": 1
+      },
+      {
+        "states": 3,
+        "cycle_types": 3,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 4,
+        "cycle_types": 5,
+        "admissible_negative_twists": 2
+      },
+      {
+        "states": 5,
+        "cycle_types": 7,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 6,
+        "cycle_types": 11,
+        "admissible_negative_twists": 3
+      },
+      {
+        "states": 7,
+        "cycle_types": 15,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 8,
+        "cycle_types": 22,
+        "admissible_negative_twists": 5
+      },
+      {
+        "states": 9,
+        "cycle_types": 30,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 10,
+        "cycle_types": 42,
+        "admissible_negative_twists": 7
+      },
+      {
+        "states": 11,
+        "cycle_types": 56,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 12,
+        "cycle_types": 77,
+        "admissible_negative_twists": 11
+      },
+      {
+        "states": 13,
+        "cycle_types": 101,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 14,
+        "cycle_types": 135,
+        "admissible_negative_twists": 15
+      },
+      {
+        "states": 15,
+        "cycle_types": 176,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 16,
+        "cycle_types": 231,
+        "admissible_negative_twists": 22
+      },
+      {
+        "states": 17,
+        "cycle_types": 297,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 18,
+        "cycle_types": 385,
+        "admissible_negative_twists": 30
+      },
+      {
+        "states": 19,
+        "cycle_types": 490,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 20,
+        "cycle_types": 627,
+        "admissible_negative_twists": 42
+      },
+      {
+        "states": 21,
+        "cycle_types": 792,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 22,
+        "cycle_types": 1002,
+        "admissible_negative_twists": 56
+      },
+      {
+        "states": 23,
+        "cycle_types": 1255,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 24,
+        "cycle_types": 1575,
+        "admissible_negative_twists": 77
+      },
+      {
+        "states": 25,
+        "cycle_types": 1958,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 26,
+        "cycle_types": 2436,
+        "admissible_negative_twists": 101
+      },
+      {
+        "states": 27,
+        "cycle_types": 3010,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 28,
+        "cycle_types": 3718,
+        "admissible_negative_twists": 135
+      },
+      {
+        "states": 29,
+        "cycle_types": 4565,
+        "admissible_negative_twists": 0
+      },
+      {
+        "states": 30,
+        "cycle_types": 5604,
+        "admissible_negative_twists": 176
+      }
+    ]
+  },
+  "exact_phase_search": {
+    "maximum_states": 12,
+    "nonempty_cycle_types": 271,
+    "rotations": 9081,
+    "admissible_rotations": 386,
+    "distinct_type_collisions": 0,
+    "by_degree": [
+      {
+        "states": 1,
+        "cycle_types": 1,
+        "angles": 1,
+        "rotations": 1,
+        "admissible_rotations": 1
+      },
+      {
+        "states": 2,
+        "cycle_types": 2,
+        "angles": 2,
+        "rotations": 4,
+        "admissible_rotations": 3
+      },
+      {
+        "states": 3,
+        "cycle_types": 3,
+        "angles": 4,
+        "rotations": 12,
+        "admissible_rotations": 5
+      },
+      {
+        "states": 4,
+        "cycle_types": 5,
+        "angles": 6,
+        "rotations": 30,
+        "admissible_rotations": 9
+      },
+      {
+        "states": 5,
+        "cycle_types": 7,
+        "angles": 10,
+        "rotations": 70,
+        "admissible_rotations": 11
+      },
+      {
+        "states": 6,
+        "cycle_types": 11,
+        "angles": 12,
+        "rotations": 132,
+        "admissible_rotations": 20
+      },
+      {
+        "states": 7,
+        "cycle_types": 15,
+        "angles": 18,
+        "rotations": 270,
+        "admissible_rotations": 21
+      },
+      {
+        "states": 8,
+        "cycle_types": 22,
+        "angles": 22,
+        "rotations": 484,
+        "admissible_rotations": 35
+      },
+      {
+        "states": 9,
+        "cycle_types": 30,
+        "angles": 28,
+        "rotations": 840,
+        "admissible_rotations": 42
+      },
+      {
+        "states": 10,
+        "cycle_types": 42,
+        "angles": 32,
+        "rotations": 1344,
+        "admissible_rotations": 61
+      },
+      {
+        "states": 11,
+        "cycle_types": 56,
+        "angles": 42,
+        "rotations": 2352,
+        "admissible_rotations": 66
+      },
+      {
+        "states": 12,
+        "cycle_types": 77,
+        "angles": 46,
+        "rotations": 3542,
+        "admissible_rotations": 112
+      }
+    ]
+  },
+  "characteristic_p_boundary": [
+    {
+      "characteristic": 2,
+      "left_cycles": [
+        2
+      ],
+      "right_cycles": [
+        1,
+        1
+      ],
+      "equal_mod_p": true,
+      "equal_over_Q": false
+    },
+    {
+      "characteristic": 3,
+      "left_cycles": [
+        3
+      ],
+      "right_cycles": [
+        1,
+        1,
+        1
+      ],
+      "equal_mod_p": true,
+      "equal_over_Q": false
+    },
+    {
+      "characteristic": 5,
+      "left_cycles": [
+        5
+      ],
+      "right_cycles": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "equal_mod_p": true,
+      "equal_over_Q": false
+    },
+    {
+      "characteristic": 7,
+      "left_cycles": [
+        7
+      ],
+      "right_cycles": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "equal_mod_p": true,
+      "equal_over_Q": false
+    }
+  ],
+  "all_assertions_passed": true,
+  "earlier_project_code_imported": false,
+  "floating_point_roots_used": false,
+  "scope": "Finite coefficient/phase checks; general proof is in the paper"
+}

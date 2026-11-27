@@ -4,6 +4,7 @@ Each folder contains the scripts, reference outputs and reproduction instruction
 
 | Paper | Reproduction instructions |
 | --- | --- |
+| The Complexity of Factoring Sums of Cycles | [factoring-sums-of-cycles](factoring-sums-of-cycles/README.md) |
 | Division by Two Cycles in Binary and Explicit Representations (hexagon:2611.01091) | [two-cycle-division](two-cycle-division/README.md) |
 | How Many Cycle Lengths Can a Unique Quotient Require? (hexagon:2611.00945) | [unique-quotient-cycle-lengths](unique-quotient-cycle-lengths/README.md) |
 | Division of Explicit Finite Dynamical Systems Is NP-Complete (hexagon:2611.00886) | [explicit-finite-dynamics-division](explicit-finite-dynamics-division/README.md) |

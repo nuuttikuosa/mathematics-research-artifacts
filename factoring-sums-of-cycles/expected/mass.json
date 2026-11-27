@@ -1,0 +1,258 @@
+{
+  "instance": "H1={5,7}, H2={11,13}, omega=3; unit capacities; [L_(1,11),R_(1,11)]=[5,7]",
+  "anchor_mass": 181,
+  "template_absolute_mass": 3456,
+  "endpoint_absolute_mass": 3456,
+  "endpoint_bound": 6912,
+  "uncollected_absolute_mass": 625536,
+  "final_target_mass": 565806,
+  "uncollected_terms": 30,
+  "per_length": [
+    {
+      "length": 3,
+      "contributions": [
+        864
+      ],
+      "final_coefficient": 864,
+      "fixed_order_prefix_max": 864,
+      "all_orders_prefix_max": 864,
+      "sum_of_absolute_contributions": 864,
+      "total_mass_over_length": "208512"
+    },
+    {
+      "length": 15,
+      "contributions": [
+        72
+      ],
+      "final_coefficient": 72,
+      "fixed_order_prefix_max": 72,
+      "all_orders_prefix_max": 72,
+      "sum_of_absolute_contributions": 72,
+      "total_mass_over_length": "208512/5"
+    },
+    {
+      "length": 21,
+      "contributions": [
+        72
+      ],
+      "final_coefficient": 72,
+      "fixed_order_prefix_max": 72,
+      "all_orders_prefix_max": 72,
+      "sum_of_absolute_contributions": 72,
+      "total_mass_over_length": "208512/7"
+    },
+    {
+      "length": 33,
+      "contributions": [
+        21,
+        -15
+      ],
+      "final_coefficient": 6,
+      "fixed_order_prefix_max": 21,
+      "all_orders_prefix_max": 21,
+      "sum_of_absolute_contributions": 36,
+      "total_mass_over_length": "208512/11"
+    },
+    {
+      "length": 35,
+      "contributions": [
+        864
+      ],
+      "final_coefficient": 864,
+      "fixed_order_prefix_max": 864,
+      "all_orders_prefix_max": 864,
+      "sum_of_absolute_contributions": 864,
+      "total_mass_over_length": "625536/35"
+    },
+    {
+      "length": 39,
+      "contributions": [
+        36
+      ],
+      "final_coefficient": 36,
+      "fixed_order_prefix_max": 36,
+      "all_orders_prefix_max": 36,
+      "sum_of_absolute_contributions": 36,
+      "total_mass_over_length": "208512/13"
+    },
+    {
+      "length": 105,
+      "contributions": [
+        120,
+        168
+      ],
+      "final_coefficient": 288,
+      "fixed_order_prefix_max": 288,
+      "all_orders_prefix_max": 288,
+      "sum_of_absolute_contributions": 288,
+      "total_mass_over_length": "208512/35"
+    },
+    {
+      "length": 143,
+      "contributions": [
+        864,
+        -165
+      ],
+      "final_coefficient": 699,
+      "fixed_order_prefix_max": 864,
+      "all_orders_prefix_max": 864,
+      "sum_of_absolute_contributions": 1029,
+      "total_mass_over_length": "625536/143"
+    },
+    {
+      "length": 165,
+      "contributions": [
+        3
+      ],
+      "final_coefficient": 3,
+      "fixed_order_prefix_max": 3,
+      "all_orders_prefix_max": 3,
+      "sum_of_absolute_contributions": 3,
+      "total_mass_over_length": "208512/55"
+    },
+    {
+      "length": 195,
+      "contributions": [
+        3
+      ],
+      "final_coefficient": 3,
+      "fixed_order_prefix_max": 3,
+      "all_orders_prefix_max": 3,
+      "sum_of_absolute_contributions": 3,
+      "total_mass_over_length": "208512/65"
+    },
+    {
+      "length": 231,
+      "contributions": [
+        3
+      ],
+      "final_coefficient": 3,
+      "fixed_order_prefix_max": 3,
+      "all_orders_prefix_max": 3,
+      "sum_of_absolute_contributions": 3,
+      "total_mass_over_length": "208512/77"
+    },
+    {
+      "length": 273,
+      "contributions": [
+        3
+      ],
+      "final_coefficient": 3,
+      "fixed_order_prefix_max": 3,
+      "all_orders_prefix_max": 3,
+      "sum_of_absolute_contributions": 3,
+      "total_mass_over_length": "208512/91"
+    },
+    {
+      "length": 385,
+      "contributions": [
+        -15,
+        15,
+        21
+      ],
+      "final_coefficient": 21,
+      "fixed_order_prefix_max": 21,
+      "all_orders_prefix_max": 36,
+      "sum_of_absolute_contributions": 51,
+      "total_mass_over_length": "625536/385"
+    },
+    {
+      "length": 429,
+      "contributions": [
+        77,
+        156
+      ],
+      "final_coefficient": 233,
+      "fixed_order_prefix_max": 233,
+      "all_orders_prefix_max": 233,
+      "sum_of_absolute_contributions": 233,
+      "total_mass_over_length": "208512/143"
+    },
+    {
+      "length": 455,
+      "contributions": [
+        15,
+        21
+      ],
+      "final_coefficient": 36,
+      "fixed_order_prefix_max": 36,
+      "all_orders_prefix_max": 36,
+      "sum_of_absolute_contributions": 36,
+      "total_mass_over_length": "625536/455"
+    },
+    {
+      "length": 715,
+      "contributions": [
+        33,
+        39
+      ],
+      "final_coefficient": 72,
+      "fixed_order_prefix_max": 72,
+      "all_orders_prefix_max": 72,
+      "sum_of_absolute_contributions": 72,
+      "total_mass_over_length": "625536/715"
+    },
+    {
+      "length": 1001,
+      "contributions": [
+        33,
+        39
+      ],
+      "final_coefficient": 72,
+      "fixed_order_prefix_max": 72,
+      "all_orders_prefix_max": 72,
+      "sum_of_absolute_contributions": 72,
+      "total_mass_over_length": "625536/1001"
+    },
+    {
+      "length": 1155,
+      "contributions": [
+        7
+      ],
+      "final_coefficient": 7,
+      "fixed_order_prefix_max": 7,
+      "all_orders_prefix_max": 7,
+      "sum_of_absolute_contributions": 7,
+      "total_mass_over_length": "208512/385"
+    },
+    {
+      "length": 1365,
+      "contributions": [
+        12
+      ],
+      "final_coefficient": 12,
+      "fixed_order_prefix_max": 12,
+      "all_orders_prefix_max": 12,
+      "sum_of_absolute_contributions": 12,
+      "total_mass_over_length": "208512/455"
+    },
+    {
+      "length": 2145,
+      "contributions": [
+        24
+      ],
+      "final_coefficient": 24,
+      "fixed_order_prefix_max": 24,
+      "all_orders_prefix_max": 24,
+      "sum_of_absolute_contributions": 24,
+      "total_mass_over_length": "208512/715"
+    },
+    {
+      "length": 3003,
+      "contributions": [
+        24
+      ],
+      "final_coefficient": 24,
+      "fixed_order_prefix_max": 24,
+      "all_orders_prefix_max": 24,
+      "sum_of_absolute_contributions": 24,
+      "total_mass_over_length": "208512/1001"
+    }
+  ],
+  "maximum_triangle_bound": 1029,
+  "actual_fixed_order_prefix_max": 864,
+  "actual_all_orders_prefix_max": 864,
+  "length_scaled_bounds_checked": true,
+  "all_assertions_passed": true,
+  "standalone_checker": true
+}

@@ -1,0 +1,64 @@
+{
+  "cases": 66211,
+  "families": [
+    {
+      "u": 3,
+      "g": 1,
+      "words": 3,
+      "cases": 7,
+      "all_prefix_partitions": true
+    },
+    {
+      "u": 4,
+      "g": 1,
+      "words": 4,
+      "cases": 15,
+      "all_prefix_partitions": true
+    },
+    {
+      "u": 5,
+      "g": 1,
+      "words": 5,
+      "cases": 31,
+      "all_prefix_partitions": true
+    },
+    {
+      "u": 3,
+      "g": 2,
+      "words": 9,
+      "cases": 511,
+      "all_prefix_partitions": true
+    },
+    {
+      "u": 4,
+      "g": 2,
+      "words": 16,
+      "cases": 65535,
+      "all_prefix_partitions": true
+    },
+    {
+      "u": 3,
+      "g": 3,
+      "words": 27,
+      "cases": 29,
+      "all_prefix_partitions": false
+    },
+    {
+      "u": 3,
+      "g": 4,
+      "words": 81,
+      "cases": 83,
+      "all_prefix_partitions": false
+    }
+  ],
+  "properties": [
+    "block owner separation",
+    "all marked address-line endpoints",
+    "type coloring",
+    "exit-lane occupancy",
+    "exact block components"
+  ],
+  "independent_of_previous_checkers": true,
+  "all_assertions_passed": true,
+  "scope": "Local output-block/exit-layer checks only; not a full SAT-instance census"
+}

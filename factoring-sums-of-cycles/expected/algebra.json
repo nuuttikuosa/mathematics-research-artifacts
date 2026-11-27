@@ -1,0 +1,13 @@
+{
+  "oracle_validation_equations": 466,
+  "interval_instances": 79,
+  "interval_quotients": 85,
+  "max_interval_mass": 14518833,
+  "rational_only_instance_has_zero_integer_quotients": true,
+  "two_layer_targets": 648,
+  "two_layer_pairs": 56,
+  "marker_targets": 163,
+  "marker_pairs": 5,
+  "strict_threshold_counterexample_verified": true,
+  "all_passed": true
+}

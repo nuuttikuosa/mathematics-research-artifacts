@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+run-results/
+checks/**/results.json
+checks/**/parameter_check.json
+checks/**/network_geometry_results.json
+checks/**/blocks_geometry_results.json
+checks/**/independent_mass_results.json
+checks/**/independent_associate_results.json

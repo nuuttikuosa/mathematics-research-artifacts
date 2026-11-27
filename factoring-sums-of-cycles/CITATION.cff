@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these checks, please cite the accompanying paper by Nuutti Kuosa."
+title: "Reproduction materials for The Complexity of Factoring Sums of Cycles"
+type: software
+license: CC0-1.0
+repository-code: "https://github.com/nuuttikuosa/mathematics-research-artifacts"
+authors:
+  - family-names: Kuosa
+    given-names: Nuutti
+    orcid: "https://orcid.org/0009-0003-4770-6289"
+preferred-citation:
+  type: unpublished
+  title: "The Complexity of Factoring Sums of Cycles"
+  authors:
+    - family-names: Kuosa
+      given-names: Nuutti
+      orcid: "https://orcid.org/0009-0003-4770-6289"
+  year: 2026
